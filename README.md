@@ -13,6 +13,29 @@ Ela não sabe quanto ela vendeu, quanto ela tem que pagar, qual um preço justo 
 - Gabriel Bandini – RA: 172312047
 - Juliano Colere Cecocn Moreira - RA: 172412391
 
+## Telas do sistema
+
+Tela inicial
+
+<img width="294" height="378" alt="image" src="https://github.com/user-attachments/assets/a84bf3a3-66cb-426c-9794-58b5dcacf734" />
+
+Tela de cadastrar produtos
+
+<img width="590" height="716" alt="image" src="https://github.com/user-attachments/assets/ed2126e0-37ff-4404-a4bd-e70a0cd1ca4a" />
+
+Registro de vendas
+
+<img width="389" height="317" alt="image" src="https://github.com/user-attachments/assets/f8f5840d-7b64-41b2-a6ab-c908ffd9abc0" />
+
+Relatório Financeiro
+
+<img width="588" height="420" alt="image" src="https://github.com/user-attachments/assets/9e0d23bc-b3a7-4092-92d7-c26c2e231e7e" />
+
+
+Video demonstrando o sistema
+- https://drive.google.com/file/d/13e1YyPxYWTT2Gc0JURpVJvs4JN1wWh80/view?usp=sharing
+
+
 ## Documento de requesitos
 https://docs.google.com/document/d/17FaX1EAOFW2-H9zvaycaaQdULddBiUfT123lLgOww1M/edit?usp=sharing
 
