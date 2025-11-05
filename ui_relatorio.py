@@ -9,7 +9,7 @@ class TelaRelatorioFinanceiro(QtWidgets.QWidget):
 
         layout = QtWidgets.QVBoxLayout()
 
-        titulo = QtWidgets.QLabel("Relatório Financeiro - Vendas x Custos x Lucro")
+        titulo = QtWidgets.QLabel("Relatório Financeiro")
         titulo.setStyleSheet("font-size: 18px; font-weight: bold;")
         titulo.setAlignment(QtCore.Qt.AlignCenter)
 
@@ -19,7 +19,7 @@ class TelaRelatorioFinanceiro(QtWidgets.QWidget):
         self.tabela.horizontalHeader().setStretchLastSection(True)
         self.tabela.horizontalHeader().setSectionResizeMode(QtWidgets.QHeaderView.Stretch)
 
-        btn_atualizar = QtWidgets.QPushButton("🔄 Atualizar Relatório")
+        btn_atualizar = QtWidgets.QPushButton("Atualizar Relatório")
         btn_atualizar.clicked.connect(self.atualizar_relatorio)
 
         layout.addWidget(titulo)
